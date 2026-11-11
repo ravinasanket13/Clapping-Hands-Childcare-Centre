@@ -29,5 +29,5 @@ Feature/Highlight
 Screenshots
 Children Dashboard:
 Educator Dashboard:
-Activity and Attendance:
+Activity and Attendance:https://github.com/ravinasanket13/Clapping-Hands-Childcare-Centre/blob/main/Activity%20and%20Attendance.png
 Enrolment: 
