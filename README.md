@@ -27,7 +27,7 @@ Feature/Highlight
 . Business impact and insights
 
 Screenshots
-Dashboard Home Page: 
+Dashboard Home Page: https://github.com/ravinasanket13/Clapping-Hands-Childcare-Centre/blob/main/CHCC%20Home%20page.png
 Children Dashboard:https://github.com/ravinasanket13/Clapping-Hands-Childcare-Centre/blob/main/Children%20.png
 Educator Dashboard:https://github.com/ravinasanket13/Clapping-Hands-Childcare-Centre/blob/main/Educator%20.png
 Activity and Attendance:https://github.com/ravinasanket13/Clapping-Hands-Childcare-Centre/blob/main/Activity%20and%20Attendance.png
