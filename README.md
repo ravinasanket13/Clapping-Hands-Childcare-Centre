@@ -74,7 +74,7 @@ Hire **7 more educators** and add classroom capacity to meet waitlist demand whi
 | `Childcare center dataset.xlsx`	| Source data (10 sheets) |
 | `database_schema.sql`	| SQL Server table definitions and relationships |
 | `analysis_queries.sql`	| 8 SQL analysis queries with results |
-| `*.png`	Dashboard screenshots 
+| `*.png`	Dashboard screenshots |
 ---
 **Ravina Gaikwad** · Data Analyst · 
 [LinkedIn] (https://linkedin.com/in/ravina-gaikwad-049399222)
